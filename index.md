@@ -89,6 +89,6 @@ This section evolves as I build and refine projects.
 
 ## 🔗 Explore More
 
-- 🐙 **GitHub:** https://github.com/Skillleading-Mohit
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohit-984419207
+- 🐙 [**GitHub:**](https://github.com/Skillleading-Mohit)
+- 🔗 [**LinkedIn:**](https://www.linkedin.com/in/mohit-984419207)
 - 🔗 [**PowerShell Scripts:**](https://github.com/Skillleading-Mohit/mohitpanwar/edit/main/index.md)
