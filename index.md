@@ -89,10 +89,5 @@ This section evolves as I build and refine projects.
 
 ## 🔗 Explore More
 
-- 🐙 **GitHub:** https://github.com/your-username  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/your-profile  
-
----
-
-⭐ *This portfolio is a living project. As my skills grow, so will this space.*
-``
+- 🐙 **GitHub:** https://github.com/Skillleading-Mohit
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mohit-984419207
